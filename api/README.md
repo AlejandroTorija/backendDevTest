@@ -40,12 +40,6 @@ http://localhost:5000/product/1/similar
 
 ## Use
 
-### Deploy to docker container
-
-```shell
-docker-compose up -d --build
-```
-
 ### Execute using the JVM
 
 ```shell
